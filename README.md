@@ -1,3 +1,6 @@
-
-- Offensive & Defensive Cybersecurity | Vulnerability & Threat Research | Threat Hunt | Malwa(RE) | Mobile Security | CTFs with [@APTXL33T](https://x.com/APTXL33T)
-- New blog at [0xdeadbeef.ma](https://0xdeadbeef.ma)
+<p align="center">
+  <samp align="center">
+   Offensive & Defensive Cybersecurity | Vulnerability & Threat Research | Threat Hunt | Malwa(RE) | Mobile Security | CTFs with <a href="https://www.linkedin.com/in/adnane-tba/">APTXL33T</a>
+    New Blog on <a href="https://0xdeadbeef.ma">0xdeadbeef.ma</a>
+  </samp>
+</p>
